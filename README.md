@@ -1,4 +1,4 @@
-![Тесты пройдены](https://img.shields.io/badge/Сборка-Успешно-brightgreen?style=plastic&logo=netlify)](https://github.com/vanyapr/robokaska/workflows/tests.yml)
+![Тесты пройдены (https://github.com/vanyapr/robokaska/workflows/tests.yml/badge.svg)](https://github.com/vanyapr/robokaska/workflows/tests.yml)
 
 # Robokaska
 
