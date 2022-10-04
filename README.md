@@ -1,4 +1,5 @@
-![Тесты пройдены (https://github.com/vanyapr/robokaska/workflows/tests.yml/badge.svg)](https://github.com/vanyapr/robokaska/workflows/tests.yml)
+![Протестировано](https://img.shields.io/badge/Прохождение%20тестов-2/2-brightgreen?style=plastic&logo=jest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Robokaska
 
