@@ -1,3 +1,5 @@
+![Build Status](https://github.com/vanyapr/robokaska/workflows/tests/badge.svg)](https://github.com/vanyapr/robokaska/workflows/tests.yml)
+
 # Robokaska
 
 Готовая интеграция для апи сервиса Robokassa. Работает, в отличие от других.
