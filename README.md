@@ -1,4 +1,4 @@
-![Build Status](https://github.com/vanyapr/robokaska/workflows/tests/badge.svg)](https://github.com/vanyapr/robokaska/workflows/tests.yml)
+![Build Status](https://github.com/vanyapr/robokaska/workflows/tests.yml/badge.svg)](https://github.com/vanyapr/robokaska/workflows/tests.yml)
 
 # Robokaska
 
@@ -18,7 +18,7 @@
 
 ## Использование
 
-1) Получаем настройки в  [личном кабинете РобоКассы](https://partner.robokassa.ru). Вносим в конфигурацию.
+1) Получаем настройки в [личном кабинете РобоКассы](https://partner.robokassa.ru). Вносим в конфигурацию.
     ```js
     const config = {
       shopIdentifier: 'Идентификатор магазина',
