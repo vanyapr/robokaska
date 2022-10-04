@@ -7,11 +7,13 @@ on:
     branches: [ main ]
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Badge Action
+        uses: emibcn/badge-action@v1.2.4
+        
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1 #Setup Node
         with:
