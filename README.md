@@ -1,4 +1,4 @@
-![Протестировано](https://img.shields.io/badge/Прохождение%20тестов-2/2-brightgreen?style=plastic&logo=jest)
+![Протестировано](https://img.shields.io/badge/Прохождение%20тестов-2/2-brightgreen?logo=jest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Robokaska
