@@ -4,7 +4,7 @@
   "description": "Готовая интеграция для апи сервиса Robokassa. Работает, в отличие от других.",
   "main": "src/robokaska.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,8 @@
   "keywords": [
     "robokassa",
     "robokassa.ru",
-    "robokassa.com"
+    "robokassa.com",
+    "робокасса"
   ],
   "author": "Ivan Proskuriakov",
   "license": "MIT",
@@ -23,5 +24,10 @@
   "homepage": "https://github.com/vanyapr/robokaska#readme",
   "dependencies": {
     "md5": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "7.29.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "jest": "^29.1.2"
   }
 }

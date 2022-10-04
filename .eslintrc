@@ -1,0 +1,35 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  },
+  "extends": "airbnb-base",
+  "rules": {
+    "indent": [
+      "error",
+      2
+    ],
+    // Прописали отступы в проекте для линтера, чтобы не ругался
+    "object-curly-newline": "off",
+    // Отключили требование объявлять объекты в несколько строк (деструктуризация)
+    "no-underscore-dangle": "off",
+    // Отключили ругань на приватные методы и приватные поля
+    "import/no-unresolved": [
+      // Отключили ругань на импорт модулей ноды
+      2,
+      {
+        "caseSensitive": false
+      }
+    ],
+    "import/newline-after-import": "off",
+    // Отключили ругань на импорт модулей сразу на следующей строке
+    "no-console": "off",
+    // Нам нужен  console.log в проекте
+    "no-useless-escape": "off",
+    // Отключить ругань на экранирование символов в регулярных выражениях (\.)
+    "max-len": "off",
+    // Отключить проверку длины строки
+    "no-undef": "off"
+  }
+}
