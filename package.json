@@ -1,0 +1,27 @@
+{
+  "name": "robokaska",
+  "version": "1.0.0",
+  "description": "Готовая интеграция для апи сервиса Robokassa. Работает, в отличие от других.",
+  "main": "src/robokaska.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanyapr/robokaska.git"
+  },
+  "keywords": [
+    "robokassa",
+    "robokassa.ru",
+    "robokassa.com"
+  ],
+  "author": "Ivan Proskuriakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanyapr/robokaska/issues"
+  },
+  "homepage": "https://github.com/vanyapr/robokaska#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
